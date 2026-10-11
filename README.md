@@ -158,6 +158,31 @@ Perform a final end-to-end check of the frontend before submitting the project.
 - Support configurable stock alerts.
 - Add automated tests for frontend and backend workflows.
 
+## AI Development Experience
+
+Code0 was used as an AI-assisted development tool during the development of StockWise. It provided assistance with selected development tasks, debugging, and exploring implementation improvements. AI-generated suggestions were reviewed and tested to verify their correctness.
+
+### Tasks Supported by AI Assistance
+
+1. **React Component Development:** Used AI assistance to explore improvements to frontend components and page structure.
+2. **REST API Development:** Received assistance with reviewing API implementation, request handling, and input validation.
+3. **MongoDB Integration:** Used AI assistance to troubleshoot database-related issues and verify data persistence.
+4. **Debugging and Testing:** Received help investigating errors, validating edge cases, and improving error handling.
+5. **Code Review and Refactoring:** Used AI suggestions to identify opportunities to improve code readability and maintainability.
+
+AI assistance supported the development process, while implementation decisions, testing, and final validation remained the developer's responsibility.
+
+### Code0 Workflow
+
+Code0 was used as an AI-assisted development tool to support selected tasks during the project. Its suggestions were reviewed rather than automatically accepted, and the application was tested to validate the resulting behavior.
+
+## Future Development
+
+- Use Code0 for additional debugging, refactoring, and testing tasks.
+- Expand automated test coverage for frontend and backend workflows.
+- Improve inventory analytics and reporting capabilities.
+
+
 ## Author
 
 Developed as a full-stack web development project using React, Node.js, Express, and MongoDB.
